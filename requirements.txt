@@ -1,4 +1,0 @@
-telethon
-fastapi
-uvicorn
-google-genai
