@@ -1,3 +1,0 @@
-telethon
-google-genai
-aiohttp
